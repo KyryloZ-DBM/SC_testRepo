@@ -13,3 +13,5 @@ CREATE TABLE [dbo].[T_Col_671](
 )
 
 GO
+
+-- some comment
